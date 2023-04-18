@@ -1,6 +1,6 @@
 # winforensics
 
-This project for windows forensics
+This script for windows forensics
 
 How to use it?
 
